@@ -1,6 +1,8 @@
 # pet_care_onboarding
 
-A new Flutter project.
+Check out our project visuals on Instagram:
+
+- [📸 Project App Preview](https://www.instagram.com/p/DGhcmSoycyd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)  
 
 ## Getting Started
 
