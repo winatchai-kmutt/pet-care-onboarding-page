@@ -1,4 +1,4 @@
-# Pet care onboarding app!
+# Pet care onboarding app! with Flutter
 
 Check out our project visuals on Instagram:
 
