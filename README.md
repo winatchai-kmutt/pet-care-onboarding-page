@@ -1,4 +1,4 @@
-# pet_care_onboarding
+# Pet care onboarding app!
 
 Check out our project visuals on Instagram:
 
